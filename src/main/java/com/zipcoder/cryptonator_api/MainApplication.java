@@ -1,6 +1,5 @@
-package com.zipcoder.yahoo_weather_api;
+package com.zipcoder.cryptonator_api;
 
-import org.json.JSONObject;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
