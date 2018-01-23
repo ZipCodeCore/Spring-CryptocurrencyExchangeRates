@@ -1,5 +1,5 @@
-# Yahoo Weather API
-* Using [Yahoo's Weather API](https://developer.yahoo.com/weather/#js), create a REST resource which displays information about the current weather in the area.
+# Cryptocurrencies exchange rates API
+* Using [Cryptonator](https://www.cryptonator.com/api/), create a REST resource which displays information about the specified crypto currency.
 * The information should be updated every 5 minutes.
 * Ensure that your project architecture is as clean as possible
     * **Note:**
